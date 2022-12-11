@@ -1,0 +1,4 @@
+Problem Statement
+Q1. Create a class that dynamically creates a 3D Array to store characters. 
+Note that the dimensions of the object (3D array) are to specified at instantiation and must have functions like fill and display. 
+Think about how to display things of 3 Dimensions in your screen which is 2  Dimensional.
