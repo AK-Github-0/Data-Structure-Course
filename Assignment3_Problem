@@ -1,0 +1,7 @@
+Q1. You are to make a single class for sorting arrays, that has a function to generate array  of a given size and fill its data with random numbers, a function to display the array, as well as three functions to sort the given array (bubble sort, merge sort and bucket sort)
+
+In addition, add a simple function within this class that can return the current time of the system (use the relevant library files).
+
+Using your code and function calls from Main function, fill the attach table for the three algorithms. The size of the array is mentioned at the top of the file. Submit your table (excel file) and code (.cpp file).
+
+Although the description of best, average and worst case is incorrect here, the code for these algorithms can be taken from geeksforgeeks "https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/".
