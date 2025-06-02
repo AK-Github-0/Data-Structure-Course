@@ -10,7 +10,7 @@ print(Countries)
 # Countries.pop()  # This will also raise an AttributeError
 # Countries.clear()  # This will also raise an AttributeError
 # To create a new tuple with an additional element, you can concatenate tuples
-Countries = Countries + ("Brazil",)
+Countries = Countries + ("Brazil",) # if we want to add a single element, we need to add a comma otherwise it is considered as a string
 print(Countries)
 # To create a new tuple with an element inserted at a specific position, you can use slicing
 Countries = Countries[:1] + ("Argentina",) + Countries[1:]
