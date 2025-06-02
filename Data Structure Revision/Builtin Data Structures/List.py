@@ -1,0 +1,17 @@
+# List -> Ordered, mutable, allows duplicates
+Countries = ["USA", "Canada", "Mexico"]
+print(Countries)
+Countries.append("Brazil")
+print(Countries)
+Countries.insert(1, "Argentina")
+print(Countries)
+Countries.remove("Mexico")
+print(Countries)
+Countries.sort()
+print(Countries)
+Countries.reverse()
+print(Countries)
+Countries.pop()
+print(Countries)
+Countries.clear()
+print(Countries)        
